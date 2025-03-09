@@ -4,13 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d9dUXIcQZL-IkBUizOC0-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d9dUXIcQZL-IkBUizOC0-1">
+        <mxCell id="d9dUXIcQZL-IkBUizOC0-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d9dUXIcQZL-IkBUizOC0-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9dUXIcQZL-IkBUizOC0-1" value="Layout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9dUXIcQZL-IkBUizOC0-1" value="Layout" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GB3fI632HOOM0I7Yb9F6-1" value="pages/form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
